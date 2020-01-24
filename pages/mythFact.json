@@ -1,0 +1,53 @@
+[
+{
+"question": "Shark skin feels like sandpaper",
+"answer": "FACT! Shark skin feels exactly like sandpaper because it is made up of tiny teeth-like structures called dermal denticles. These scales point towards the tail and help reduce friction from surrounding water when the shark swims.",
+"cat": "JS"
+},
+{
+"question": "All sharks are vicious predators",
+"answer": "MYTH! Basking sharks and whale sharks, the two largest species of sharks, are filter feeders that eat fish eggs and other tiny organisms.",
+"cat": "JS"
+},
+{
+"question": "Shark skeletons are not made out of bones",
+"answer": "FACT! Sharks' skeletons are made of pure cartilage and muscle. Since it's half the density of bone, this makes the shark lighter and more flexible, which makes sharp turns easier while pursuing the prey.",
+
+"cat": "WP"
+},
+{
+"question": "All sharks are enormous in size",
+"answer": "MYTH! Sharks can be as small as a goldfish. The dwarf lantern shark is hardly one of the fierce creatures you picture when you hear the word 'shark.' It grows to just six inches in length. But what it lacks in size it makes up for in quirks - its organs emit light along its belly, helping it to camouflage in the rays of sunlight that stream into the shallow water it inhabits.",
+"cat": "WP"
+},
+{
+"question": "Shark do not sleep",
+"answer": "FACT! Since some species have to continue swimming in order to breathe, instead of falling into a deep sleep, sharks remain semi-conscious.",
+"cat": "WP"
+},
+{
+"question": "The ocean floor is a graveyard for shark teeth",
+"answer": "FACT! Because sharks are constantly losing and replacing teeth, experts say there are trillions of teeth sprinkled on the ocean floor, for deep-sea divers to discover and turn into jewelry.",
+"cat": "CSS"
+},
+{
+"question": "Sharks have no predators",
+"answer": "MYTH! The great white shark was originally considered the apex predator of the ocean; however, the killer whales - Orcas, have proved to be a predator of the shark. Despite that, humans are still the greatest threat to sharks. Each year, tens of millions of sharks are killed for their fins.",
+"cat": "JS"
+},
+{
+"question": "You can ride a shark",
+"answer": "FACT! The largest species of shark is also one of the most easygoing. Whale sharks have been known to give a ride to hitchhiking swimmers. But marine life experts caution against popularizing this sport because when people spend a lot of time and pressure on a fish, it takes away the slime covering and potentially has negative health impacts for the fish.",
+"cat": "JS"
+},
+{
+"question": "Falling coconuts kill more people than sharks",
+"answer": "FACT! Coconuts kill around 150 people worldwide every year, which makes them about ten times more dangerous than sharks. Also, there are plenty of animals that are far more dangerous than sharks. While sharks kill an average of less than one person a year in the U.S. and less than six worldwide, the stats are much scarier for creature such as hippos, that kill 2,900 people in Africa annually or even cows that kill about 22 people a year.",
+"cat": "CSS"
+},
+{
+"question": "Sharks existed long before dinosaurs even came into existence",
+"answer": "FACT! Sharks have been around a very long time. Based on fossil scales found in Australia and the United States, scientists hypothesize that sharks first appeared in the ocean around 455 million years ago.",
+"cat": "CSS"
+}
+]
