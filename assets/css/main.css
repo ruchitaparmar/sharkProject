@@ -2,12 +2,6 @@
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 @import url('https://fonts.googleapis.com/css?family=Barlow+Condensed&display=swap');
 
-/*
-	Stellar by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2375,11 +2369,12 @@ input, select, textarea {
 	}
 
 		.image img {
-			border-radius: 8px;
-			display: block;
-			box-shadow: 4px 4px 5px 1px #00000091;
-			/*3px 4px 3px 4px #6363635e;*/
-		}
+    border-radius: 5px;
+    display: block;
+    /* box-shadow: 4px 4px 5px 1px #00000091; */
+    /* border: 1px solid #6363638a; */
+    box-shadow: 1px 2px 3px 0px #00000085;
+}
 
 		.image.left, .image.right {
 			max-width: 40%;
@@ -2408,9 +2403,9 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 100%;
-				border: 1px solid #cec6c6;
-			}
+    width: 100%;
+    /* border: 1px solid #cec6c6; */
+}
 
 		.image.main {
 			display: block;
